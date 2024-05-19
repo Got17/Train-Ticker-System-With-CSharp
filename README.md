@@ -1,6 +1,6 @@
 # Train Ticket System by C#
 
-[!AppImage](images/TicketSystemApp.png)
+[!AppImage](Images/TicketSystemApp.png)
 
 Welcome to the Train Ticket System project! This system is developed using C# and allows users to calculate train ticket prices based on various parameters such as distance, class, and discounts.
 
